@@ -68,7 +68,7 @@ if (isset($_POST["submit"])) {
 <p>
                     <label>Password</label>
                     <i class="fa fa-lock" ></i>
-                    <input class="w3-input w3-border w3-round" name="password" type="number" required>
+                    <input class="w3-input w3-border w3-round" name="password" type="text" required>
                 </p>
 
 
